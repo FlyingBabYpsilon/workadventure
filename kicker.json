@@ -319,7 +319,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
+         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -429,10 +429,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":455,
-         "source":"..\/Downloads\/Pipoya RPG Tileset 32x32\/SampleMap\/[Base]BaseChip_pipo.tsx"
         }],
  "tilewidth":32,
  "type":"map",
