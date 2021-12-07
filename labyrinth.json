@@ -68,12 +68,6 @@
          "id":29,
          "name":"jitsiMeetingRoom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"MeetingRoom"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -86,17 +80,6 @@
          "id":38,
          "name":"jitsiChillzone",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"ChillZone"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
