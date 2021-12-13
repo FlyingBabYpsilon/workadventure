@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"office.json"
+                 "value":"office.json#kitchen_entry"
                 }],
          "type":"tilelayer",
          "visible":true,
