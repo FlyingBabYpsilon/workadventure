@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"office.json"
+                 "value":"pearEnd.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"labyrinth.json"
+                 "value":"blueEnd.json"
                 }],
          "type":"tilelayer",
          "visible":true,

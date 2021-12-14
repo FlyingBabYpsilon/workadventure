@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"office.json#kitchen_entry"
+                 "value":"pearEnd.json#kitchen_entry"
                 }],
          "type":"tilelayer",
          "visible":true,
